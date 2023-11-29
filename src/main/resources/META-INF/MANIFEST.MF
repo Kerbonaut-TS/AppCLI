@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: it.hedgehog.AppCLI
+Class-Path: picocli-4.6.1.jar
+

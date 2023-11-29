@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="AppCLI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppCLI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AppCLI.jar">
+        <element id="module-output" name="AppCLI" />
+      </element>
+      <element id="library" level="project" name="Maven: info.picocli:picocli:4.6.1" />
+    </root>
+  </artifact>
+</component>
